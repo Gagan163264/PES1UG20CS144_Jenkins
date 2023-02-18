@@ -2,8 +2,9 @@
 
 using namespace std;
 
-void main()
+int main()
 {
   cout << "Task5 run sucessfully";
+  return 0;
 }
   
